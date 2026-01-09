@@ -1,0 +1,22 @@
+{
+  "node": "n8n-nodes-base.gusto",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": ["Business", "Human Resources"],
+  "resources": {
+    "credentialDocumentation": [
+      {
+        "url": "https://docs.gusto.com/"
+      }
+    ],
+    "primaryDocumentation": [
+      {
+        "url": "https://docs.gusto.com/"
+      }
+    ]
+  },
+  "alias": ["HR", "Payroll", "Benefits", "Employees", "Gusto"],
+  "subcategories": {
+    "Business": ["HR Management", "Payroll"]
+  }
+}

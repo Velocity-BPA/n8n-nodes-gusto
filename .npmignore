@@ -1,0 +1,40 @@
+# Source files
+credentials/
+nodes/
+index.ts
+tsconfig.json
+.eslintrc.js
+.prettierrc
+
+# Test files
+test/
+*.test.ts
+coverage/
+.nyc_output/
+jest.config.js
+
+# Development files
+.github/
+.vscode/
+.idea/
+
+# Git files
+.git/
+.gitignore
+
+# Scripts
+scripts/
+
+# Documentation source
+docs/
+
+# Build artifacts we don't need
+*.tsbuildinfo
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env*
